@@ -1,0 +1,14 @@
+C:\Users\domin\source\repos\Shop_D.M\Shop_D.M\bin\Debug\net8.0\Shop_D.M.exe
+C:\Users\domin\source\repos\Shop_D.M\Shop_D.M\bin\Debug\net8.0\Shop_D.M.deps.json
+C:\Users\domin\source\repos\Shop_D.M\Shop_D.M\bin\Debug\net8.0\Shop_D.M.runtimeconfig.json
+C:\Users\domin\source\repos\Shop_D.M\Shop_D.M\bin\Debug\net8.0\Shop_D.M.dll
+C:\Users\domin\source\repos\Shop_D.M\Shop_D.M\bin\Debug\net8.0\Shop_D.M.pdb
+C:\Users\domin\source\repos\Shop_D.M\Shop_D.M\obj\Debug\net8.0\Shop_D.M.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\domin\source\repos\Shop_D.M\Shop_D.M\obj\Debug\net8.0\Shop_D.M.AssemblyInfoInputs.cache
+C:\Users\domin\source\repos\Shop_D.M\Shop_D.M\obj\Debug\net8.0\Shop_D.M.AssemblyInfo.cs
+C:\Users\domin\source\repos\Shop_D.M\Shop_D.M\obj\Debug\net8.0\Shop_D.M.csproj.CoreCompileInputs.cache
+C:\Users\domin\source\repos\Shop_D.M\Shop_D.M\obj\Debug\net8.0\Shop_D.M.dll
+C:\Users\domin\source\repos\Shop_D.M\Shop_D.M\obj\Debug\net8.0\refint\Shop_D.M.dll
+C:\Users\domin\source\repos\Shop_D.M\Shop_D.M\obj\Debug\net8.0\Shop_D.M.pdb
+C:\Users\domin\source\repos\Shop_D.M\Shop_D.M\obj\Debug\net8.0\Shop_D.M.genruntimeconfig.cache
+C:\Users\domin\source\repos\Shop_D.M\Shop_D.M\obj\Debug\net8.0\ref\Shop_D.M.dll
